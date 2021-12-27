@@ -26,8 +26,8 @@
 
 ### 5) Bibliotecas utilizadas no projeto
 - [https://www.npmjs.com/package/youtube-node](https://www.npmjs.com/package/ejs) (View Engine - Interface gráfica)
-- [https://www.npmjs.com/package/dialogflow](https://www.npmjs.com/package/express) (Servidor Web - HTTP)
-- [https://www.npmjs.com/package/node-telegram-bot-api](https://www.npmjs.com/package/multer) (Upload de arquivos)
+- [https://www.npmjs.com/package/express](https://www.npmjs.com/package/express) (Servidor Web - HTTP)
+- [https://www.npmjs.com/package/multer](https://www.npmjs.com/package/multer) (Upload de arquivos)
 
 
 ### 6) Para rodar o projeto
